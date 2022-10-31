@@ -5,7 +5,7 @@ function App() {
     <div className="App">
 
       <header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
-        <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" href="#">Company name</a>
+        <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" href="#">Products Inventory Management System</a>
         <div class="navbar-nav">
           <div class="nav-item text-nowrap">
             <a class="nav-link px-3" href="#">Sign out</a>
@@ -20,8 +20,7 @@ function App() {
               <ul class="nav flex-column">
                 <li class="nav-item">
                   <a class="nav-link active" aria-current="page" href="#">
-                    <span data-feather="home" class="align-text-bottom"></span>
-                    Dashboard
+                    Products
                   </a>
                 </li>
 
